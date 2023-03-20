@@ -1,0 +1,17 @@
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\bin\Debug\net6.0\EncuestaGoogle.exe
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\bin\Debug\net6.0\EncuestaGoogle.deps.json
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\bin\Debug\net6.0\EncuestaGoogle.runtimeconfig.json
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\bin\Debug\net6.0\EncuestaGoogle.dll
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\bin\Debug\net6.0\EncuestaGoogle.pdb
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.csproj.AssemblyReference.cache
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.AssemblyInfoInputs.cache
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.AssemblyInfo.cs
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.csproj.CoreCompileInputs.cache
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.csproj.CopyComplete
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.dll
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\refint\EncuestaGoogle.dll
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.pdb
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\EncuestaGoogle.genruntimeconfig.cache
+C:\Users\usuar\OneDrive\Escritorio\EncuestaGoogle\EncuestaGoogle\obj\Debug\net6.0\ref\EncuestaGoogle.dll
